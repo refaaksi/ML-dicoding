@@ -1,8 +1,8 @@
-#Belajar Machine Learning untuk Pemula
+# Belajar Machine Learning untuk Pemula
 
-##Proyek Akhir : Klasifikasi Gambar
+## Proyek Akhir : Klasifikasi Gambar
 
-###Submission 
+### Submission 
 - Membuat model machine learning yang dapat mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 - Proyek ini dikerjakan menggunakan notebook pada google colab
 
